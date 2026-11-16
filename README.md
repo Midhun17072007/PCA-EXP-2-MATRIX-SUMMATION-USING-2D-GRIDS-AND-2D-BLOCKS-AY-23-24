@@ -337,4 +337,5 @@ Time Elapsed on float:
 
 <img width="630" height="147" alt="Screenshot 2026-11-02 142230" src="https://github.com/user-attachments/assets/b291db57-dce2-44f4-8258-637fddd7b5b3" />
 
+## RESULT:
 The host took 0.899076 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.013622 seconds. Therefore, int variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
